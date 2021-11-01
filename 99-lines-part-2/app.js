@@ -30,5 +30,3 @@ function lyrics(friend, div) {
     p.textContent = text;
   }
 }
-
-// j + " line of code in the file " + j + " line of code " + friends[i] + " strikes one out, clears it all out, no more lines of code in the file ";
